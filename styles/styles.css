@@ -26,9 +26,9 @@ header, nav {
 
     section {
         float: left;
-        width: 455px;
+        width: 480px;
         padding: 40px 10px 10px 10px;
-        margin-right: 10px;
+        margin-right: 20px;
     }
 
         article {
@@ -47,7 +47,7 @@ header, nav {
 
     aside {
         float: left;
-        width: 455px;
+        width: 420px;
         padding-top: 30px;
         padding-bottom: 247px;
     }
