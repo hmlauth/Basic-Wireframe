@@ -1,3 +1,3 @@
 # Basic Wireframe
-A wireframe website to show the basic layout of a website using divs.
+This website shows the basic layout of a website primarily with HTML and some CSS.
 
